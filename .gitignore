@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+# Usually these folders are in the root of your repository
+/dist/
+/build/
+/*.spec
+
+# Environment files
+.env
+.venv
+venv/
+ENV/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
