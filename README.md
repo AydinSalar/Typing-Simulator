@@ -20,4 +20,4 @@ A Python-based typing simulator that simulates typing text at a specified words-
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/typing-simulator.git
+   git clone https://github.com/AydinSalar/typing-simulator.git
